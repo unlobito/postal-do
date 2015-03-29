@@ -604,7 +604,6 @@
 "Santa Lucia Dm","El Seybo",24009
 "Vicentillo","El Seybo",24010
 "Anama","El Seybo",24011
-"","El Seybo",24012
 "El Jovero","El Seybo",24101
 "El Morro","El Seybo",24102
 "Las Lilas","El Seybo",24103
@@ -918,7 +917,6 @@
 "Hatillo San Lorenzo","Santiago de Los Caballeros",51101
 "Hato Del Yaque Dm","Santiago de Los Caballeros",51102
 "Sabana Grande de Batey","Santiago de Los Caballeros",51103
-"","Santiago de Los Caballeros",51110
 "Cañafistol","Santiago de Los Caballeros",51104
 "Celestina","Santiago de Los Caballeros",51105
 "Corocito","Santiago de Los Caballeros",51106
@@ -929,7 +927,6 @@
 "Mata Del Dajáo","Santiago de Los Caballeros",51111
 "Naranjo Bajón","Santiago de Los Caballeros",51112
 "El Rubio Dm","Santiago de Los Caballeros",51113
-"","Santiago de Los Caballeros",51120
 "Franco Bid","Santiago de Los Caballeros",51121
 "Janey","Santiago de Los Caballeros",51122
 "Juncalito Abajo","Santiago de Los Caballeros",51123
@@ -1249,7 +1246,6 @@
 "Buena Vista","Barahona",81202
 "Caletón","Barahona",81203
 "El Pino","Barahona",81204
-"","Barahona",81301
 "El Platón","Barahona",81401
 "La Zanja Arriba","Barahona",81402
 "Leonardo","Barahona",81403
@@ -1603,7 +1599,7 @@
 "Ensanche Bermudez","Santiago",51091
 "Ens. Ortega","Santiago",51022
 "El Rosal","Santiago",51043
-"El Jido","Santiago",51082
+"El Ejido","Santiago",51082
 "El Ensueño","Santiago",51021
 "El Embrujo III","Santiago",51033
 "El Embrujo II","Santiago",51033
@@ -1649,7 +1645,6 @@
 "Barrio La Gallera","Santiago",51041
 "Barrio Hermanas Mirabal","Santiago",51082
 "Barrio Duarte","Santiago",51073
-"","Santiago",51082
 "Arroyo Hondo","Santiago",51121
 "Altos Del Invi","Santiago",51072
 "Altos de Virella","Santiago",51073
@@ -2171,7 +2166,7 @@
 "Mejoramiento Social","Azua",71002
 "Pueblo Abajo","Azua",71001
 "Savica","Azua",71001
-"","Azua",71003
+"Villa Esperanza","Azua",71003
 "Barrio Cepillo","San Juan de la Maguana",72004
 "Barrio Guachupita","San Juan de la Maguana",72001
 "Barrio Gualey","San Juan de la Maguana",72004
