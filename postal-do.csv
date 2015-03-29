@@ -789,12 +789,12 @@
 "Urb. Falcombridge","Monseñor Nouel",42001
 "Urb. Jacaranda","Monseñor Nouel",42001
 "Urb. La Salvia","Monseñor Nouel",42001
-"Bejucal","Monseñor Nouel",42002
 "Barrio La Privada","Monseñor Nouel",42002
 "Barrio Los Olímpicos","Monseñor Nouel",42002
 "Barrio Los Transformadores","Monseñor Nouel",42002
 "Barrio San José","Monseñor Nouel",42002
 "Barrio Santa Rosa","Monseñor Nouel",42002
+"Bejucal","Monseñor Nouel",42002
 "Ensanche Libertad","Monseñor Nouel",42002
 "Mejoramiento Social","Monseñor Nouel",42002
 "Reparto Quisqueya","Monseñor Nouel",42002
@@ -805,6 +805,11 @@
 "Las Delicias","Monseñor Nouel",42003
 "Urb. Miriam","Monseñor Nouel",42003
 "Urb. San Pablo","Monseñor Nouel",42003
+"Barrio Felito Mena","Monseñor Nouel",42004
+"Barrio Las Flores","Monseñor Nouel",42004
+"Barrio Puerto Rico","Monseñor Nouel",42004
+"El Centro","Monseñor Nouel",42004
+"El Fundo","Monseñor Nouel",42004
 "El Verde","Monseñor Nouel",42004
 "Jayaco Dm","Monseñor Nouel",42005
 "Juma Bejucal Dm","Monseñor Nouel",42006
@@ -1513,30 +1518,6 @@
 "Mirador Del Yaque","Santiago",51122
 "Los Salados","Santiago",51063
 "Mejoramiento Social","Santiago",51082
-"Barrio Prosperidad"," Monseñor Nouel",42001
-"La Salvia"," Monseñor Nouel",42001
-"Urb. Falcombridge"," Monseñor Nouel",42001
-"Urb. Jacaranda"," Monseñor Nouel",42001
-"Urb. La Salvia"," Monseñor Nouel",42001
-"Barrio La Privada"," Monseñor Nouel",42002
-"Barrio Los Olímpicos"," Monseñor Nouel",42002
-"Barrio Los Transformadores"," Monseñor Nouel",42002
-"Barrio San José"," Monseñor Nouel",42002
-"Barrio Santa Rosa"," Monseñor Nouel",42002
-"Ensanche Libertad"," Monseñor Nouel",42002
-"Mejoramiento Social"," Monseñor Nouel",42002
-"Reparto Quisqueya"," Monseñor Nouel",42002
-"Reparto Yuna"," Monseñor Nouel",42002
-"Zona Franca de Bonao"," Monseñor Nouel",42002
-"La Villa"," Monseñor Nouel",42003
-"Las Delicias"," Monseñor Nouel",42003
-"Urb. Miriam"," Monseñor Nouel",42003
-"Urb. San Pablo"," Monseñor Nouel",42003
-"Barrio Felito Mena"," Monseñor Nouel",42004
-"Barrio Las Flores"," Monseñor Nouel",42004
-"Barrio Puerto Rico"," Monseñor Nouel",42004
-"El Centro"," Monseñor Nouel",42004
-"El Fundo"," Monseñor Nouel",42004
 "Los Platanitos","Santiago",51082
 "Los Pérez","Santiago",51054
 "Los Pepines","Santiago",51012
