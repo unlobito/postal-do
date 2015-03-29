@@ -254,7 +254,7 @@
 "Las Acacias","Santo Domingo",11104
 "Las Americas","Santo Domingo",11606
 "Las Caobas","Santo Domingo",10905
-";as Capbotas","Santo Domingo",10905
+"Las Caobitas","Santo Domingo",10905
 "Las Colinas","Santo Domingo",10608
 "Las Crorias","Santo Domingo",10805
 "Las Enfermeras","Santo Domingo",11906
@@ -546,27 +546,27 @@
 "Santo Domingo Norte","Santo Domingo",11200
 "Santo Domingo Este","Santo Domingo",11500
 "Santo Domingo Oeste","Santo Domingo",10700
-"Boca Del Soco","San Pedro de Macoris",21001
-"Guayacanes","San Pedro de Macoris",21002
-"La Punta","San Pedro de Macoris",21003
-"Juan Dolio","San Pedro de Macoris",21004
-"San Jose de Los Llanos","San Pedro de Macoris",21100
-"Cayacoa","San Pedro de Macoris",21101
-"El Guayabal","San Pedro de Macoris",21102
-"Los Jibaros","San Pedro de Macoris",21103
-"Los Montones","San Pedro de Macoris",21104
-"San Geronimo","San Pedro de Macoris",21105
-"Ajagual","San Pedro de Macoris",21201
-"Los Lorenes","San Pedro de Macoris",21202
-"Magarin","San Pedro de Macoris",21203
-"Alejandro Bass","San Pedro de Macoris",21301
-"Las Callas","San Pedro de Macoris",21302
-"Pajarito","San Pedro de Macoris",21401
-"Los Montones","San Pedro de Macoris",21402
-"Zorra Buena","San Pedro de Macoris",21403
-"Caonabo","San Pedro de Macoris",21404
-"Malulani","San Pedro de Macoris",21405
-"Gautier Dm","San Pedro de Macoris",21406
+"Boca Del Soco","San Pedro de Macorís",21001
+"Guayacanes","San Pedro de Macorís",21002
+"La Punta","San Pedro de Macorís",21003
+"Juan Dolio","San Pedro de Macorís",21004
+"San Jose de Los Llanos","San Pedro de Macorís",21100
+"Cayacoa","San Pedro de Macorís",21101
+"El Guayabal","San Pedro de Macorís",21102
+"Los Jibaros","San Pedro de Macorís",21103
+"Los Montones","San Pedro de Macorís",21104
+"San Geronimo","San Pedro de Macorís",21105
+"Ajagual","San Pedro de Macorís",21201
+"Los Lorenes","San Pedro de Macorís",21202
+"Magarin","San Pedro de Macorís",21203
+"Alejandro Bass","San Pedro de Macorís",21301
+"Las Callas","San Pedro de Macorís",21302
+"Pajarito","San Pedro de Macorís",21401
+"Los Montones","San Pedro de Macorís",21402
+"Zorra Buena","San Pedro de Macorís",21403
+"Caonabo","San Pedro de Macorís",21404
+"Malulani","San Pedro de Macorís",21405
+"Gautier Dm","San Pedro de Macorís",21406
 "Aleton","La Romana",22001
 "Guaymate","La Romana",22002
 "Isla Saona","La Romana",22003
@@ -678,43 +678,43 @@
 "La Pea","Duarte",31807
 "Ponton","Duarte",31808
 "Ramonal","Duarte",31809
-"Acosta","Samana",32001
-"Arroyo Barril Dm","Samana",32002
-"Las Garelas Dm","Samana",32003
-"Los Cacaos","Samana",32004
-"Honduras","Samana",32005
-"Juana Vicenta","Samana",32006
-"El Limon Dm","Samana",32007
-"Las Pacualas","Samana",32008
-"La Majagua","Samana",32101
-"Las Garitas","Samana",32102
-"Agua Santa Dal Yuma","Samana",32103
-"Majagual","Samana",32104
-"El Jaimito","Samana",32201
-"El Coson","Samana",32202
-"La Barbacoa","Samana",32203
-"El Naranjo","Samana",32204
-"Las Carcobas","Maria Trinidad Sanchez",33001
-"El Guayabo","Maria Trinidad Sanchez",33002
-"Las Gordas","Maria Trinidad Sanchez",33003
-"Abreu","Maria Trinidad Sanchez",33101
-"Arroyo Salado","Maria Trinidad Sanchez",33102
-"La Entrada","Maria Trinidad Sanchez",33103
-"La Jaguita","Maria Trinidad Sanchez",33104
-"El Pozo","Maria Trinidad Sanchez",33201
-"El Papagayo","Maria Trinidad Sanchez",33202
-"Los Pajones","Maria Trinidad Sanchez",33203
-"El Telanza","Maria Trinidad Sanchez",33204
-"Los Indios","Maria Trinidad Sanchez",33205
-"San Jos de Maranza","Maria Trinidad Sanchez",33206
-"Payita","Maria Trinidad Sanchez",33207
-"Caja de Jobo","Maria Trinidad Sanchez",33301
-"Cruce Del Rincon","Maria Trinidad Sanchez",33302
-"Los Yayales","Maria Trinidad Sanchez",33303
-"La Entrada","Maria Trinidad Sanchez",33304
-"Arroyo Salado","Maria Trinidad Sanchez",33305
-"La Gorda","Maria Trinidad Sanchez",33306
-"Arroyo Al Medio","Maria Trinidad Sanchez",33307
+"Acosta","Samaná",32001
+"Arroyo Barril Dm","Samaná",32002
+"Las Garelas Dm","Samaná",32003
+"Los Cacaos","Samaná",32004
+"Honduras","Samaná",32005
+"Juana Vicenta","Samaná",32006
+"El Limon Dm","Samaná",32007
+"Las Pacualas","Samaná",32008
+"La Majagua","Samaná",32101
+"Las Garitas","Samaná",32102
+"Agua Santa Dal Yuma","Samaná",32103
+"Majagual","Samaná",32104
+"El Jaimito","Samaná",32201
+"El Coson","Samaná",32202
+"La Barbacoa","Samaná",32203
+"El Naranjo","Samaná",32204
+"Las Carcobas","María Trinidad Sánchez",33001
+"El Guayabo","María Trinidad Sánchez",33002
+"Las Gordas","María Trinidad Sánchez",33003
+"Abreu","María Trinidad Sánchez",33101
+"Arroyo Salado","María Trinidad Sánchez",33102
+"La Entrada","María Trinidad Sánchez",33103
+"La Jaguita","María Trinidad Sánchez",33104
+"El Pozo","María Trinidad Sánchez",33201
+"El Papagayo","María Trinidad Sánchez",33202
+"Los Pajones","María Trinidad Sánchez",33203
+"El Telanza","María Trinidad Sánchez",33204
+"Los Indios","María Trinidad Sánchez",33205
+"San Jos de Maranza","María Trinidad Sánchez",33206
+"Payita","María Trinidad Sánchez",33207
+"Caja de Jobo","María Trinidad Sánchez",33301
+"Cruce Del Rincon","María Trinidad Sánchez",33302
+"Los Yayales","María Trinidad Sánchez",33303
+"La Entrada","María Trinidad Sánchez",33304
+"Arroyo Salado","María Trinidad Sánchez",33305
+"La Gorda","María Trinidad Sánchez",33306
+"Arroyo Al Medio","María Trinidad Sánchez",33307
 "Jamao Adentro","Hermanas Mirabal",34001
 "Jamao Afuera","Hermanas Mirabal",34002
 "Loa Cacaos","Hermanas Mirabal",34003
@@ -1063,47 +1063,47 @@
 "Hatillo Palma Adentro","Monte Cristi",62701
 "Los Derramadores","Monte Cristi",62702
 "Doa Antonia","Monte Cristi",62703
-"Caongo Dm","Dajabon",63001
-"Cayuco","Dajabon",63002
-"Sabana Larga","Dajabon",63003
-"Clavelina","Dajabon",63004
-"El Aguacate","Dajabon",63101
-"Capotillo Dm","Dajabon",63102
-"El Cajil","Dajabon",63103
-"La Ceyba","Dajabon",63104
-"Hipolito Billini","Dajabon",63105
-"Monte Grande","Dajabon",63106
-"Santiago de la Cruz","Dajabon",63107
-"Partido Arriba","Dajabon",63201
-"Baca Gorda","Dajabon",63202
-"La Gorra","Dajabon",63203
-"Chacuey","Dajabon",63204
-"Cruz de Cabrera","Dajabon",63301
-"El Carrizal","Dajabon",63302
-"La Pocilga","Dajabon",63303
-"Los Cerezos","Dajabon",63304
-"Manuel Bueno Dm","Dajabon",63401
-"El Rodeo","Dajabon",63402
-"Arroyo Blanco","Santiago Rodriguez",64001
-"La Caobas","Santiago Rodriguez",64002
-"Los Cercadillos","Santiago Rodriguez",64003
-"Clavijo","Santiago Rodriguez",64004
-"Coqui","Santiago Rodriguez",64005
-"Estancia Vieja","Santiago Rodriguez",64006
-"Mata de Jobo","Santiago Rodriguez",64007
-"Palmarejo","Santiago Rodriguez",64008
-"San Jose","Santiago Rodriguez",64009
-"Toma","Santiago Rodriguez",64010
-"La Ceiba de Boneti","Santiago Rodriguez",64101
-"El Dajao","Santiago Rodriguez",64102
-"El Fundo","Santiago Rodriguez",64103
-"Ginita","Santiago Rodriguez",64104
-"Inaje","Santiago Rodriguez",64105
-"La Lona","Santiago Rodriguez",64106
-"El Mamoncito","Santiago Rodriguez",64201
-"Gurado","Santiago Rodriguez",64202
-"La Cacique","Santiago Rodriguez",64203
-"El Rodeo","Santiago Rodriguez",64204
+"Caongo Dm","Dajabón",63001
+"Cayuco","Dajabón",63002
+"Sabana Larga","Dajabón",63003
+"Clavelina","Dajabón",63004
+"El Aguacate","Dajabón",63101
+"Capotillo Dm","Dajabón",63102
+"El Cajil","Dajabón",63103
+"La Ceyba","Dajabón",63104
+"Hipolito Billini","Dajabón",63105
+"Monte Grande","Dajabón",63106
+"Santiago de la Cruz","Dajabón",63107
+"Partido Arriba","Dajabón",63201
+"Baca Gorda","Dajabón",63202
+"La Gorra","Dajabón",63203
+"Chacuey","Dajabón",63204
+"Cruz de Cabrera","Dajabón",63301
+"El Carrizal","Dajabón",63302
+"La Pocilga","Dajabón",63303
+"Los Cerezos","Dajabón",63304
+"Manuel Bueno Dm","Dajabón",63401
+"El Rodeo","Dajabón",63402
+"Arroyo Blanco","Santiago Rodríguez",64001
+"La Caobas","Santiago Rodríguez",64002
+"Los Cercadillos","Santiago Rodríguez",64003
+"Clavijo","Santiago Rodríguez",64004
+"Coqui","Santiago Rodríguez",64005
+"Estancia Vieja","Santiago Rodríguez",64006
+"Mata de Jobo","Santiago Rodríguez",64007
+"Palmarejo","Santiago Rodríguez",64008
+"San Jose","Santiago Rodríguez",64009
+"Toma","Santiago Rodríguez",64010
+"La Ceiba de Boneti","Santiago Rodríguez",64101
+"El Dajao","Santiago Rodríguez",64102
+"El Fundo","Santiago Rodríguez",64103
+"Ginita","Santiago Rodríguez",64104
+"Inaje","Santiago Rodríguez",64105
+"La Lona","Santiago Rodríguez",64106
+"El Mamoncito","Santiago Rodríguez",64201
+"Gurado","Santiago Rodríguez",64202
+"La Cacique","Santiago Rodríguez",64203
+"El Rodeo","Santiago Rodríguez",64204
 "Barreras Dm","Azua de Compostela",71001
 "Clavellinas Dm","Azua de Compostela",71002
 "La Altagracia","Azua de Compostela",71003
@@ -1197,49 +1197,49 @@
 "Pan de Azucar","San Juna de la Maguana",72417
 "Jorgillo Dm","San Juna de la Maguana",72501
 "Rio Arriba Del Sur","San Juna de la Maguana",72502
-"Guayabo Dm","Elias Pia",73001
-"Los Rinconcitos","Elias Pia",73002
-"Pedro Blanco","Elias Pia",73003
-"Angostura","Elias Pia",73004
-"Hato Viejo","Elias Pia",73005
-"La Jagua","Elias Pia",73006
-"Juan Felipe","Elias Pia",73007
-"Macasia","Elias Pia",73008
-"Las Patillas","Elias Pia",73009
-"El Pino","Elias Pia",73010
-"Pinzon","Elias Pia",73011
-"Potrozo","Elias Pia",73012
-"Puello","Elias Pia",73013
-"Sabana Larga Dm","Elias Pia",73014
-"Las Caitas","Elias Pia",73101
-"Higuerito","Elias Pia",73102
-"Sabana Cruz Dm","Elias Pia",73103
-"Sabana Mula","Elias Pia",73104
-"Guaroa","Elias Pia",73105
-"Guayabal","Elias Pia",73106
-"Los Yareles","Elias Pia",73107
-"Tabacal","Elias Pia",73108
-"Sabana Higuero Dm","Elias Pia",73109
-"Reboso","Elias Pia",73201
-"Guanito","Elias Pia",73202
-"Las Lagunas","Elias Pia",73203
-"Blanco","Elias Pia",73204
-"Aniceto Martnes","Elias Pia",73301
-"Los Guineos","Elias Pia",73302
-"Rancho de la Guardia","Elias Pia",73303
-"Ranco de Pedro","Elias Pia",73304
-"Las Palmas","Elias Pia",73401
-"El Hoyo","Elias Pia",73402
-"Guayacajuco","Elias Pia",73403
-"Nicola Joca","Elias Pia",73404
-"Rio Limpio Dm","Elias Pia",73405
-"Rio Limpio","Elias Pia",73406
-"La Cierrecita","Elias Pia",73407
-"Billiguin","Elias Pia",73408
-"Juan de la Cruz","Elias Pia",73501
-"Sabana de la Loma","Elias Pia",73502
-"Monte Mayor","Elias Pia",73503
-"Rancho de la Guardia Dm","Elias Pia",73504
+"Guayabo Dm","Elías Piña",73001
+"Los Rinconcitos","Elías Piña",73002
+"Pedro Blanco","Elías Piña",73003
+"Angostura","Elías Piña",73004
+"Hato Viejo","Elías Piña",73005
+"La Jagua","Elías Piña",73006
+"Juan Felipe","Elías Piña",73007
+"Macasia","Elías Piña",73008
+"Las Patillas","Elías Piña",73009
+"El Pino","Elías Piña",73010
+"Pinzon","Elías Piña",73011
+"Potrozo","Elías Piña",73012
+"Puello","Elías Piña",73013
+"Sabana Larga Dm","Elías Piña",73014
+"Las Caitas","Elías Piña",73101
+"Higuerito","Elías Piña",73102
+"Sabana Cruz Dm","Elías Piña",73103
+"Sabana Mula","Elías Piña",73104
+"Guaroa","Elías Piña",73105
+"Guayabal","Elías Piña",73106
+"Los Yareles","Elías Piña",73107
+"Tabacal","Elías Piña",73108
+"Sabana Higuero Dm","Elías Piña",73109
+"Reboso","Elías Piña",73201
+"Guanito","Elías Piña",73202
+"Las Lagunas","Elías Piña",73203
+"Blanco","Elías Piña",73204
+"Aniceto Martnes","Elías Piña",73301
+"Los Guineos","Elías Piña",73302
+"Rancho de la Guardia","Elías Piña",73303
+"Ranco de Pedro","Elías Piña",73304
+"Las Palmas","Elías Piña",73401
+"El Hoyo","Elías Piña",73402
+"Guayacajuco","Elías Piña",73403
+"Nicola Joca","Elías Piña",73404
+"Rio Limpio Dm","Elías Piña",73405
+"Rio Limpio","Elías Piña",73406
+"La Cierrecita","Elías Piña",73407
+"Billiguin","Elías Piña",73408
+"Juan de la Cruz","Elías Piña",73501
+"Sabana de la Loma","Elías Piña",73502
+"Monte Mayor","Elías Piña",73503
+"Rancho de la Guardia Dm","Elías Piña",73504
 "Cachon","Barahona",81001
 "Las Guazaras","Barahona",81002
 "Manuel Diaz","Barahona",81003
@@ -1325,37 +1325,37 @@
 "Jose Francisco Pea Gomez Dm","Pedernales",84004
 "Los Tres Charcos","Pedernales",84101
 "Colonia Villa Esperanza","Pedernales",84201
-"Borbon","San Cristobal",91001
-"Hatillo","San Cristobal",91002
-"Hato Damas Dm","San Cristobal",91003
-"Ingenio Nuevo","San Cristobal",91004
-"Naranjo Arriba","San Cristobal",91005
-"Sainagua","San Cristobal",91006
-"Santa Maria","San Cristobal",91007
-"Medina Dm","San Cristobal",91008
-"La Cuchilla Dm","San Cristobal",91009
-"El Carril Dm","San Cristobal",91101
-"La Pared","San Cristobal",91102
-"El Ingenio","San Cristobal",91201
-"Los Naranjos","San Cristobal",91202
-"Cambita El Pueblecito Dm","San Cristobal",91301
-"Calderon","San Cristobal",91302
-"Humachon","San Cristobal",91303
-"La Colonia","San Cristobal",91304
-"Los Manantiales","San Cristobal",91305
-"El Tablazo","San Cristobal",91306
-"Boca de Nigua","San Cristobal",91401
-"Najayo Abajo","San Cristobal",91401
-"Juan Barn","San Cristobal",91501
-"Sabana Palenque","San Cristobal",91502
-"Las Gallardas","San Cristobal",91601
-"Najayo Al Medio","San Cristobal",91602
-"Mana de Yaguate","San Cristobal",91603
-"Catarey","San Cristobal",91701
-"Mana de Haina","San Cristobal",91702
-"Medina","San Cristobal",91703
-"Pino Herrado","San Cristobal",91704
-"San Jos Del Puerto Dm","San Cristobal",91705
+"Borbon","San Cristóbal",91001
+"Hatillo","San Cristóbal",91002
+"Hato Damas Dm","San Cristóbal",91003
+"Ingenio Nuevo","San Cristóbal",91004
+"Naranjo Arriba","San Cristóbal",91005
+"Sainagua","San Cristóbal",91006
+"Santa Maria","San Cristóbal",91007
+"Medina Dm","San Cristóbal",91008
+"La Cuchilla Dm","San Cristóbal",91009
+"El Carril Dm","San Cristóbal",91101
+"La Pared","San Cristóbal",91102
+"El Ingenio","San Cristóbal",91201
+"Los Naranjos","San Cristóbal",91202
+"Cambita El Pueblecito Dm","San Cristóbal",91301
+"Calderon","San Cristóbal",91302
+"Humachon","San Cristóbal",91303
+"La Colonia","San Cristóbal",91304
+"Los Manantiales","San Cristóbal",91305
+"El Tablazo","San Cristóbal",91306
+"Boca de Nigua","San Cristóbal",91401
+"Najayo Abajo","San Cristóbal",91401
+"Juan Barn","San Cristóbal",91501
+"Sabana Palenque","San Cristóbal",91502
+"Las Gallardas","San Cristóbal",91601
+"Najayo Al Medio","San Cristóbal",91602
+"Mana de Yaguate","San Cristóbal",91603
+"Catarey","San Cristóbal",91701
+"Mana de Haina","San Cristóbal",91702
+"Medina","San Cristóbal",91703
+"Pino Herrado","San Cristóbal",91704
+"San Jos Del Puerto Dm","San Cristóbal",91705
 "El Cacique Dm","Monte Plata",92001
 "El Centro","Monte Plata",92002
 "El Dean Dm","Monte Plata",92003
@@ -1392,53 +1392,53 @@
 "La Mayas","Monte Plata",92604
 "Reparadero","Monte Plata",9205
 "La Yautia","Monte Plata",92506
-"Las Auyamas","San Jose de Ocoa",93001
-"La Gina","San Jose de Ocoa",93002
-"Los Morones","San Jose de Ocoa",93003
-"Las Barias","San Jose de Ocoa",94001
-"Boca Canasta","San Jose de Ocoa",94002
-"Las Calderas","San Jose de Ocoa",94003
-"Caafistol","San Jose de Ocoa",94004
-"El Carreton Dm","San Jose de Ocoa",94005
-"Los Cateyes","San Jose de Ocoa",94006
-"Boca Canasta","San Jose de Ocoa",94007
-"Honduras","San Jose de Ocoa",94008
-"Iguana","San Jose de Ocoa",94009
-"Limonal Dm","San Jose de Ocoa",94010
-"El Llano","San Jose de Ocoa",94011
-"La Montera","San Jose de Ocoa",94012
-"Juan Luis","San Jose de Ocoa",93004
-"Arroyo Caa","San Jose de Ocoa",93005
-"Mahoma","San Jose de Ocoa",93006
-"Banilejo","San Jose de Ocoa",93007
-"Quita Pea","San Jose de Ocoa",93008
-"Quita Sueo","San Jose de Ocoa",93009
-"Arroyo Bonito","San Jose de Ocoa",93010
-"La Bocana","San Jose de Ocoa",93011
-"Arroyo Manteca","San Jose de Ocoa",93012
-"Las Avispas","San Jose de Ocoa",93101
-"La Marca","San Jose de Ocoa",93102
-"La Cumbre","San Jose de Ocoa",93103
-"Nizao","San Jose de Ocoa",93104
-"La Cienaga","San Jose de Ocoa",93105
-"El Rosalito","San Jose de Ocoa",93106
-"Naranjal","San Jose de Ocoa",93107
-"Derrumbao","San Jose de Ocoa",93108
-"Los Peas","San Jose de Ocoa",93109
-"El Tamarindo","San Jose de Ocoa",93110
-"Los Anones","San Jose de Ocoa",93111
-"Limn","San Jose de Ocoa",93112
-"Monte Arriba","San Jose de Ocoa",93113
-"Los Ranchitos","San Jose de Ocoa",93114
-"El Pinar","San Jose de Ocoa",93115
-"Bejucal","San Jose de Ocoa",93116
-"La Cienaga","San Jose de Ocoa",93117
-"Los Caimitos","San Jose de Ocoa",93118
-"Los Manaclares","San Jose de Ocoa",93119
-"La Horma","San Jose de Ocoa",93120
-"La Nuez","San Jose de Ocoa",93121
-"Las Auyamas","San Jose de Ocoa",93122
-"Arroyo Caa","San Jose de Ocoa",93123
+"Las Auyamas","San José de Ocoa",93001
+"La Gina","San José de Ocoa",93002
+"Los Morones","San José de Ocoa",93003
+"Las Barias","San José de Ocoa",94001
+"Boca Canasta","San José de Ocoa",94002
+"Las Calderas","San José de Ocoa",94003
+"Caafistol","San José de Ocoa",94004
+"El Carreton Dm","San José de Ocoa",94005
+"Los Cateyes","San José de Ocoa",94006
+"Boca Canasta","San José de Ocoa",94007
+"Honduras","San José de Ocoa",94008
+"Iguana","San José de Ocoa",94009
+"Limonal Dm","San José de Ocoa",94010
+"El Llano","San José de Ocoa",94011
+"La Montera","San José de Ocoa",94012
+"Juan Luis","San José de Ocoa",93004
+"Arroyo Caa","San José de Ocoa",93005
+"Mahoma","San José de Ocoa",93006
+"Banilejo","San José de Ocoa",93007
+"Quita Pea","San José de Ocoa",93008
+"Quita Sueo","San José de Ocoa",93009
+"Arroyo Bonito","San José de Ocoa",93010
+"La Bocana","San José de Ocoa",93011
+"Arroyo Manteca","San José de Ocoa",93012
+"Las Avispas","San José de Ocoa",93101
+"La Marca","San José de Ocoa",93102
+"La Cumbre","San José de Ocoa",93103
+"Nizao","San José de Ocoa",93104
+"La Cienaga","San José de Ocoa",93105
+"El Rosalito","San José de Ocoa",93106
+"Naranjal","San José de Ocoa",93107
+"Derrumbao","San José de Ocoa",93108
+"Los Peas","San José de Ocoa",93109
+"El Tamarindo","San José de Ocoa",93110
+"Los Anones","San José de Ocoa",93111
+"Limn","San José de Ocoa",93112
+"Monte Arriba","San José de Ocoa",93113
+"Los Ranchitos","San José de Ocoa",93114
+"El Pinar","San José de Ocoa",93115
+"Bejucal","San José de Ocoa",93116
+"La Cienaga","San José de Ocoa",93117
+"Los Caimitos","San José de Ocoa",93118
+"Los Manaclares","San José de Ocoa",93119
+"La Horma","San José de Ocoa",93120
+"La Nuez","San José de Ocoa",93121
+"Las Auyamas","San José de Ocoa",93122
+"Arroyo Caa","San José de Ocoa",93123
 "Don Gregorio","Peravia",94101
 "Lucas Diaz","Peravia",94102
 "Santana Dm","Peravia",94103
@@ -1814,27 +1814,27 @@
 "Villa Estancia Nueva","Provincia Espaillat",56071
 "Villa Estela","Provincia Espaillat",56041
 "Villa Olga","Provincia Espaillat",56061
-"Barrio Acapulco","Sanchez Ramirez",43001
-"Centro de la Ciudad","Sanchez Ramirez",42002
-"Barrio Esperanza","Sanchez Ramirez",42002
-"Barrio Hato","Sanchez Ramirez",42002
-"Barrio La Altagracia","Sanchez Ramirez",42002
-"Barrio La Cotorra","Sanchez Ramirez",43001
-"Barrio La Cruz","Sanchez Ramirez",43004
-"Barrio La Fortunas","Sanchez Ramirez",42002
-"Barrio La Yuca","Sanchez Ramirez",43003
-"Barrio Libertad","Sanchez Ramirez",43001
-"Barrio Los Algodones","Sanchez Ramirez",43003
-"Barrio Los Cocos","Sanchez Ramirez",43001
-"Barrio Los Espaoles","Sanchez Ramirez",43001
-"Barrio Los Mineros","Sanchez Ramirez",43004
-"Barrio Los Tocones","Sanchez Ramirez",43003
-"Barrio Los Cajuiles","Sanchez Ramirez",43004
-"Barrio Paraiso","Sanchez Ramirez",43004
-"Barrio Pueblo Nuevo","Sanchez Ramirez",43004
-"Barrio San Martin de Porres","Sanchez Ramirez",42002
-"Barrio Santa Rosa","Sanchez Ramirez",43004
-"Barrio Vietnam","Sanchez Ramirez",42002
+"Barrio Acapulco","Sánchez Ramírez",43001
+"Centro de la Ciudad","Sánchez Ramírez",42002
+"Barrio Esperanza","Sánchez Ramírez",42002
+"Barrio Hato","Sánchez Ramírez",42002
+"Barrio La Altagracia","Sánchez Ramírez",42002
+"Barrio La Cotorra","Sánchez Ramírez",43001
+"Barrio La Cruz","Sánchez Ramírez",43004
+"Barrio La Fortunas","Sánchez Ramírez",42002
+"Barrio La Yuca","Sánchez Ramírez",43003
+"Barrio Libertad","Sánchez Ramírez",43001
+"Barrio Los Algodones","Sánchez Ramírez",43003
+"Barrio Los Cocos","Sánchez Ramírez",43001
+"Barrio Los Espaoles","Sánchez Ramírez",43001
+"Barrio Los Mineros","Sánchez Ramírez",43004
+"Barrio Los Tocones","Sánchez Ramírez",43003
+"Barrio Los Cajuiles","Sánchez Ramírez",43004
+"Barrio Paraiso","Sánchez Ramírez",43004
+"Barrio Pueblo Nuevo","Sánchez Ramírez",43004
+"Barrio San Martin de Porres","Sánchez Ramírez",42002
+"Barrio Santa Rosa","Sánchez Ramírez",43004
+"Barrio Vietnam","Sánchez Ramírez",42002
 "Altos Del Hatico","La Vega",41001
 "Barrio La Primavera","La Vega",41001
 "Barrio Maria Auxiliadora","La Vega",41002
@@ -1875,7 +1875,7 @@
 "Villa Rosa","La Vega",41002
 "Villa Turey","La Vega",41001
 "Alto de la Javiela","Duarte",31004
-"Barrio Wilmore","Samana",32001
+"Barrio Wilmore","Samaná",32001
 "Barrio Azul","Duarte",31001
 "Barrio Cuesta Blanca","Duarte",31006
 "Barrio El Capacito","Duarte",31007
@@ -1938,23 +1938,23 @@
 "Ventura Grullon","Duarte",31005
 "Villa Olimpica","Duarte",31004
 "Vista Del Valle","Duarte",31001
-"Barrio El Millon","Samana",32001
-"Barrio New York","Samana",32001
-"Barrio La Fortaleza","Samana",32001
-"Villa Salma","Samana",32001
-"Barrio Capitalista","Maria Trinidad Sanchez",33003
-"Barrio Doralisa Ulloa","Maria Trinidad Sanchez",33001
-"Barrio El Eden","Maria Trinidad Sanchez",33003
-"Barrio La 500","Maria Trinidad Sanchez",33003
-"Barrio Libertad","Maria Trinidad Sanchez",33003
-"Barrio Prd","Maria Trinidad Sanchez",33003
-"Barrio Quisqueyano","Maria Trinidad Sanchez",33003
-"Barrio Roberto Fermin","Maria Trinidad Sanchez",33003
-"Barrio San Jose","Maria Trinidad Sanchez",33002
-"Barrio Santisima Trinidad","Maria Trinidad Sanchez",33003
-"Barrio Universitaria","Maria Trinidad Sanchez",33003
-"Centro de la Ciudad","Maria Trinidad Sanchez",33003
-"Pueblo Nuevo","Maria Trinidad Sanchez",33001
+"Barrio El Millon","Samaná",32001
+"Barrio New York","Samaná",32001
+"Barrio La Fortaleza","Samaná",32001
+"Villa Salma","Samaná",32001
+"Barrio Capitalista","María Trinidad Sánchez",33003
+"Barrio Doralisa Ulloa","María Trinidad Sánchez",33001
+"Barrio El Eden","María Trinidad Sánchez",33003
+"Barrio La 500","María Trinidad Sánchez",33003
+"Barrio Libertad","María Trinidad Sánchez",33003
+"Barrio Prd","María Trinidad Sánchez",33003
+"Barrio Quisqueyano","María Trinidad Sánchez",33003
+"Barrio Roberto Fermin","María Trinidad Sánchez",33003
+"Barrio San Jose","María Trinidad Sánchez",33002
+"Barrio Santisima Trinidad","María Trinidad Sánchez",33003
+"Barrio Universitaria","María Trinidad Sánchez",33003
+"Centro de la Ciudad","María Trinidad Sánchez",33003
+"Pueblo Nuevo","María Trinidad Sánchez",33001
 "Alto de Piedra","Hermanas Mirabal",34002
 "Barrio Bietnam","Hermanas Mirabal",34001
 "Barrio Clavijo","Hermanas Mirabal",34002
@@ -1968,55 +1968,55 @@
 "Barriolos Mangos","Hermanas Mirabal",34001
 "Centro de la Ciudad","Hermanas Mirabal",34001
 "Urb. Los Almendros","Hermanas Mirabal",34001
-"Barrio 24 de Abril","San Pedro de Macoris",21004
-"Barrio Azul","San Pedro de Macoris",21004
-"Barrio Blanco","San Pedro de Macoris",21009
-"Barrio Cerveceria","San Pedro de Macoris",21006
-"Barrio El 3 I/2","San Pedro de Macoris",21006
-"Barrio El Silencio","San Pedro de Macoris",21009
-"Barrio El Toconal","San Pedro de Macoris",21001
-"Barrio Esperanza","San Pedro de Macoris",21009
-"Barrio Invicea","San Pedro de Macoris",21005
-"Barrio Japon","San Pedro de Macoris",21001
-"Barrio La Filipina","San Pedro de Macoris",21001
-"Barrio La Puerta","San Pedro de Macoris",21004
-"Barrio La Punta","San Pedro de Macoris",21009
-"Barrio La Urea","San Pedro de Macoris",21001
-"Barrio Las Piedras","San Pedro de Macoris",21001
-"Barrio Lindo","San Pedro de Macoris",21006
-"Barrio Los Cajones","San Pedro de Macoris",21002
-"Barrio Los Cuatros Caminos","San Pedro de Macoris",21005
-"Barrio Los Maestros","San Pedro de Macoris",21007
-"Barrio Mexico","San Pedro de Macoris",21008
-"Barrio Miramar","San Pedro de Macoris",21001
-"Barrio Nuevo","San Pedro de Macoris",21005
-"Barrio Obrero","San Pedro de Macoris",21009
-"Barrio Ortiz","San Pedro de Macoris",21007
-"Barrio Placer Bonito","San Pedro de Macoris",21009
-"Barrio Plan Porvenir","San Pedro de Macoris",21002
-"Barrio Pueblo Nuevo","San Pedro de Macoris",21001
-"Barrio Restauracion","San Pedro de Macoris",21007
-"Barrio Sarmiento","San Pedro de Macoris",21002
-"Barrio Villa Providencia","San Pedro de Macoris",21008
-"Batey Central","San Pedro de Macoris",21005
-"Buenos Aires","San Pedro de Macoris",21005
-"Cerveceria Nacional Dominicana","San Pedro de Macoris",21007
-"Ensanche Vega","San Pedro de Macoris",21005
-"Farrio Las Flores","San Pedro de Macoris",21001
-"Ingenio Porvenir","San Pedro de Macoris",21004
-"Punta de Garza","San Pedro de Macoris",21009
-"Urb. Evangelina Rodriguez","San Pedro de Macoris",21008
-"Urb. Enrriquillo","San Pedro de Macoris",21002
-"Urb. Evaristo Sanchez","San Pedro de Macoris",21001
-"Urb. Independencia","San Pedro de Macoris",21007
-"Urb. Jhon F. Kennedy","San Pedro de Macoris",21007
-"Urb. La Roca","San Pedro de Macoris",21001
-"Urb. Universitaria","San Pedro de Macoris",21002
-"Urb. Vicini","San Pedro de Macoris",21009
-"Villa Magdalena","San Pedro de Macoris",21005
-"Villa Olimpica","San Pedro de Macoris",21005
-"Villa Progreso","San Pedro de Macoris",21006
-"Zona Franca Industrial","San Pedro de Macoris",21003
+"Barrio 24 de Abril","San Pedro de Macorís",21004
+"Barrio Azul","San Pedro de Macorís",21004
+"Barrio Blanco","San Pedro de Macorís",21009
+"Barrio Cerveceria","San Pedro de Macorís",21006
+"Barrio El 3 I/2","San Pedro de Macorís",21006
+"Barrio El Silencio","San Pedro de Macorís",21009
+"Barrio El Toconal","San Pedro de Macorís",21001
+"Barrio Esperanza","San Pedro de Macorís",21009
+"Barrio Invicea","San Pedro de Macorís",21005
+"Barrio Japon","San Pedro de Macorís",21001
+"Barrio La Filipina","San Pedro de Macorís",21001
+"Barrio La Puerta","San Pedro de Macorís",21004
+"Barrio La Punta","San Pedro de Macorís",21009
+"Barrio La Urea","San Pedro de Macorís",21001
+"Barrio Las Piedras","San Pedro de Macorís",21001
+"Barrio Lindo","San Pedro de Macorís",21006
+"Barrio Los Cajones","San Pedro de Macorís",21002
+"Barrio Los Cuatros Caminos","San Pedro de Macorís",21005
+"Barrio Los Maestros","San Pedro de Macorís",21007
+"Barrio Mexico","San Pedro de Macorís",21008
+"Barrio Miramar","San Pedro de Macorís",21001
+"Barrio Nuevo","San Pedro de Macorís",21005
+"Barrio Obrero","San Pedro de Macorís",21009
+"Barrio Ortiz","San Pedro de Macorís",21007
+"Barrio Placer Bonito","San Pedro de Macorís",21009
+"Barrio Plan Porvenir","San Pedro de Macorís",21002
+"Barrio Pueblo Nuevo","San Pedro de Macorís",21001
+"Barrio Restauracion","San Pedro de Macorís",21007
+"Barrio Sarmiento","San Pedro de Macorís",21002
+"Barrio Villa Providencia","San Pedro de Macorís",21008
+"Batey Central","San Pedro de Macorís",21005
+"Buenos Aires","San Pedro de Macorís",21005
+"Cerveceria Nacional Dominicana","San Pedro de Macorís",21007
+"Ensanche Vega","San Pedro de Macorís",21005
+"Farrio Las Flores","San Pedro de Macorís",21001
+"Ingenio Porvenir","San Pedro de Macorís",21004
+"Punta de Garza","San Pedro de Macorís",21009
+"Urb. Evangelina Rodriguez","San Pedro de Macorís",21008
+"Urb. Enrriquillo","San Pedro de Macorís",21002
+"Urb. Evaristo Sanchez","San Pedro de Macorís",21001
+"Urb. Independencia","San Pedro de Macorís",21007
+"Urb. Jhon F. Kennedy","San Pedro de Macorís",21007
+"Urb. La Roca","San Pedro de Macorís",21001
+"Urb. Universitaria","San Pedro de Macorís",21002
+"Urb. Vicini","San Pedro de Macorís",21009
+"Villa Magdalena","San Pedro de Macorís",21005
+"Villa Olimpica","San Pedro de Macorís",21005
+"Villa Progreso","San Pedro de Macorís",21006
+"Zona Franca Industrial","San Pedro de Macorís",21003
 "Altos Del Rio Dulce","La Romana",22005
 "Balneario El Calenton","La Romana",22004
 "Barrio Bancola","La Romana",22006
@@ -2105,35 +2105,35 @@
 "Barrio La Gallera","Monte Plata",92002
 "Barrio Vietnam","Monte Plata",92001
 "Centro de la Ciudad","Monte Plata",92002
-"Barrio 5 de Abril","San Cristobal",91005
-"Barrio Arena","San Cristobal",91003
-"Barrio Concentracion","San Cristobal",91003
-"Barrio Favidrio","San Cristobal",91003
-"Barrio Jeringa","San Cristobal",91004
-"Barrio La Constitucion","San Cristobal",91005
-"Barrio La Coquera","San Cristobal",91002
-"Barrio La Pia","San Cristobal",91003
-"Barrio Las Flores","San Cristobal",91004
-"Barrio Los Nova","San Cristobal",91005
-"Barrio Nueva Esperanza","San Cristobal",91001
-"Barrio Puerto Rico","San Cristobal",91005
-"Barrio San Isidro","San Cristobal",91001
-"Canatica","San Cristobal",91002
-"Caada Honda","San Cristobal",91002
-"Centro de la Ciudad","San Cristobal",91004
-"Conani","San Cristobal",91001
-"El Cerro","San Cristobal",91001
-"Ens. Constitucion","San Cristobal",91003
-"Ens. Juan Pablo Duarte","San Cristobal",91003
-"Lava Pie","San Cristobal",91002
-"Madre Vieja Norte","San Cristobal",91003
-"Madre Vieja Sur","San Cristobal",91003
-"Pueblo Nuevo","San Cristobal",91001
-"San Antaonio","San Cristobal",91002
-"Urb. Colina Hermosa","San Cristobal",91005
-"Urb. Las Arecas","San Cristobal",91003
-"Urb. Santes","San Cristobal",91003
-"Villa Fundacion","San Cristobal",91005
+"Barrio 5 de Abril","San Cristóbal",91005
+"Barrio Arena","San Cristóbal",91003
+"Barrio Concentracion","San Cristóbal",91003
+"Barrio Favidrio","San Cristóbal",91003
+"Barrio Jeringa","San Cristóbal",91004
+"Barrio La Constitucion","San Cristóbal",91005
+"Barrio La Coquera","San Cristóbal",91002
+"Barrio La Pia","San Cristóbal",91003
+"Barrio Las Flores","San Cristóbal",91004
+"Barrio Los Nova","San Cristóbal",91005
+"Barrio Nueva Esperanza","San Cristóbal",91001
+"Barrio Puerto Rico","San Cristóbal",91005
+"Barrio San Isidro","San Cristóbal",91001
+"Canatica","San Cristóbal",91002
+"Caada Honda","San Cristóbal",91002
+"Centro de la Ciudad","San Cristóbal",91004
+"Conani","San Cristóbal",91001
+"El Cerro","San Cristóbal",91001
+"Ens. Constitucion","San Cristóbal",91003
+"Ens. Juan Pablo Duarte","San Cristóbal",91003
+"Lava Pie","San Cristóbal",91002
+"Madre Vieja Norte","San Cristóbal",91003
+"Madre Vieja Sur","San Cristóbal",91003
+"Pueblo Nuevo","San Cristóbal",91001
+"San Antaonio","San Cristóbal",91002
+"Urb. Colina Hermosa","San Cristóbal",91005
+"Urb. Las Arecas","San Cristóbal",91003
+"Urb. Santes","San Cristóbal",91003
+"Villa Fundacion","San Cristóbal",91005
 "30 de Mayo","Peravia",94001
 "Barrio Santa Ana","Peravia",94002
 "Brisas Del Guazuma","Peravia",94004
@@ -2189,17 +2189,17 @@
 "Villa Felicia","San Juan de la Maguana",72002
 "Villa Flores","San Juan de la Maguana",72001
 "Villa Ofelia","San Juan de la Maguana",72002
-"Barrio Rafael","San Jose de Ocoa",93001
-"Clavellina","San Jose de Ocoa",93002
-"La Vija","San Jose de Ocoa",93001
-"Nuestro Esfuerzo","San Jose de Ocoa",93003
-"Pueblo Abajo","San Jose de Ocoa",93002
-"Res. Los Maestros","San Jose de Ocoa",93003
-"San Antonio","San Jose de Ocoa",93003
-"San Luis","San Jose de Ocoa",93002
-"Centro de la Ciudad","Elias Pia",73003
-"Galindo","Elias Pia",73001
-"La Primaria","Elias Pia",73002
+"Barrio Rafael","San José de Ocoa",93001
+"Clavellina","San José de Ocoa",93002
+"La Vija","San José de Ocoa",93001
+"Nuestro Esfuerzo","San José de Ocoa",93003
+"Pueblo Abajo","San José de Ocoa",93002
+"Res. Los Maestros","San José de Ocoa",93003
+"San Antonio","San José de Ocoa",93003
+"San Luis","San José de Ocoa",93002
+"Centro de la Ciudad","Elías Piña",73003
+"Galindo","Elías Piña",73001
+"La Primaria","Elías Piña",73002
 "Alto Velo","Barahona",81001
 "Baitoita","Barahona",81002
 "Barrio Enriquillo","Barahona",81003
@@ -2302,21 +2302,21 @@
 "Villa Diego","Valverde",61003
 "Villa Olimpica","Valverde",61001
 "Yerba de Guinea","Valverde",61004
-"Barrio La Manicera","Santiago Rodriguez",64001
-"Barrio Alejandro Bueno","Santiago Rodriguez",64002
-"Barrio Cambelen","Santiago Rodriguez",64001
-"Barrio El Millon","Santiago Rodriguez",64002
-"Barrio El Tamarindo","Santiago Rodriguez",64002
-"Barrio La Joya","Santiago Rodriguez",64001
-"Barrio Las Espinas","Santiago Rodriguez",64002
-"Barrio Los Maestros","Santiago Rodriguez",64002
-"Barrio Mejoramiento Social","Santiago Rodriguez",64001
-"Barrio Simo","Santiago Rodriguez",64002
-"Barriolas Flores","Santiago Rodriguez",64002
-"Centro de la Ciudad","Santiago Rodriguez",64002
-"Los Tomines","Santiago Rodriguez",64002
-"Urb. Merien","Santiago Rodriguez",64002
-"Villa Polin","Santiago Rodriguez",64002
+"Barrio La Manicera","Santiago Rodríguez",64001
+"Barrio Alejandro Bueno","Santiago Rodríguez",64002
+"Barrio Cambelen","Santiago Rodríguez",64001
+"Barrio El Millon","Santiago Rodríguez",64002
+"Barrio El Tamarindo","Santiago Rodríguez",64002
+"Barrio La Joya","Santiago Rodríguez",64001
+"Barrio Las Espinas","Santiago Rodríguez",64002
+"Barrio Los Maestros","Santiago Rodríguez",64002
+"Barrio Mejoramiento Social","Santiago Rodríguez",64001
+"Barrio Simo","Santiago Rodríguez",64002
+"Barriolas Flores","Santiago Rodríguez",64002
+"Centro de la Ciudad","Santiago Rodríguez",64002
+"Los Tomines","Santiago Rodríguez",64002
+"Urb. Merien","Santiago Rodríguez",64002
+"Villa Polin","Santiago Rodríguez",64002
 "Altos de la Palomas","Montecristi",62001
 "Barrio Francisco Javier","Montecristi",62002
 "Barrio La Aviacion","Montecristi",62002
@@ -2335,13 +2335,13 @@
 "Los Jazmines","Montecristi",62001
 "Mejoramiento Social","Montecristi",62001
 "Salinas","Montecristi",62001
-"Barrio La Esperanza","Dajabon",63003
-"Barrio La Fe","Dajabon",63004
-"Barrio Militar","Dajabon",63003
-"Barrio Nuevo","Dajabon",63004
-"Barrio Benito Moncion","Dajabon",63001
-"Centro de la Ciudad","Dajabon",63002
-"Plaza Beller","Dajabon",63003
+"Barrio La Esperanza","Dajabón",63003
+"Barrio La Fe","Dajabón",63004
+"Barrio Militar","Dajabón",63003
+"Barrio Nuevo","Dajabón",63004
+"Barrio Benito Moncion","Dajabón",63001
+"Centro de la Ciudad","Dajabón",63002
+"Plaza Beller","Dajabón",63003
 "Mama Tingo","Higuey",23002
 "Barrio La Ceja","Monte Plata",92001
 "Barrio La Ceja","Monte Plata",92001
