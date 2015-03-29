@@ -747,10 +747,10 @@
 "Palero","La Vega",41102
 "Tireo Dm","La Vega",41103
 "La Altagracia","La Vega",41104
-"Arroyo Frió","La Vega",41105
+"Arroyo Frío","La Vega",41105
 "La Descubierta","La Vega",41106
 "Las Palomas","La Vega",41107
-"El Rió","La Vega",41108
+"El Río","La Vega",41108
 "Tireo Abajo","La Vega",41109
 "Tireo Arriba","La Vega",41110
 "La Sabina Dm","La Vega",41111
@@ -770,13 +770,13 @@
 "Pinar Quemado","La Vega",41213
 "Los Forosos","La Vega",41214
 "Cabirma","La Vega",41215
-"Rió Verde Arriba Dm","La Vega",41216
+"Río Verde Arriba Dm","La Vega",41216
 "Arroyo Hondo Arriba","La Vega",41217
 "El Mirador","La Vega",41218
 "El Naranjal","La Vega",41219
 "Pueblo Viejo","La Vega",41220
-"Rió Verde Abajo","La Vega",41221
-"Rió Verde Arriba","La Vega",41222
+"Río Verde Abajo","La Vega",41221
+"Río Verde Arriba","La Vega",41222
 "La Frontera","La Vega",41301
 "Jima Arriba","La Vega",41302
 "San Bartolo","La Vega",41303
@@ -1150,7 +1150,7 @@
 "El Limón","Azua",71805
 "El Cruce de Estebania","Azua",71806
 "El 8","Azua",71807
-"Rió Grande","Azua",71808
+"Río Grande","Azua",71808
 "Los Quemados","Azua",71809
 "Sabana de Miguel Martín","Azua",71810
 "Pueblo Viejo","Azua",71101
@@ -1165,7 +1165,7 @@
 "Mogollón","San Juan",72008
 "Guazumal","San Juan",72009
 "Pueblo Nuevo","San Juan",72010
-"Rió Arriba Del Norte","San Juan",72011
+"Río Arriba Del Norte","San Juan",72011
 "Sabana Alta Dm","San Juan",72012
 "El Rosario Dm","San Juan",72013
 "Arroyo Cano Dm","San Juan",72101
@@ -1198,7 +1198,7 @@
 "Catanamatia","San Juan",72416
 "Pan de Azucar","San Juan",72417
 "Jorgillo Dm","San Juan",72501
-"Rió Arriba Del Sur","San Juan",72502
+"Río Arriba Del Sur","San Juan",72502
 "Guayabo Dm","Elías Piña",73001
 "Los Rinconcitos","Elías Piña",73002
 "Pedro Blanco","Elías Piña",73003
@@ -1234,8 +1234,8 @@
 "El Hoyo","Elías Piña",73402
 "Guayacajuco","Elías Piña",73403
 "Nicola Joca","Elías Piña",73404
-"Rió Limpio Dm","Elías Piña",73405
-"Rió Limpio","Elías Piña",73406
+"Río Limpio Dm","Elías Piña",73405
+"Río Limpio","Elías Piña",73406
 "La Cierrecita","Elías Piña",73407
 "Billiguin","Elías Piña",73408
 "Juan de la Cruz","Elías Piña",73501
@@ -1317,7 +1317,7 @@
 "Batey 7","Independencia",83501
 "Batey 8","Independencia",83502
 "Batey 9","Independencia",83503
-"Cabeza de Rió","Independencia",83504
+"Cabeza de Río","Independencia",83504
 "El Maniel","Independencia",83601
 "Raíz Picada","Independencia",83602
 "Cabo Rojo","Pedernales",84001
@@ -1362,7 +1362,7 @@
 "El Dean Dm","Monte Plata",92003
 "Hato Arriba","Monte Plata",92004
 "La Lisa Dm","Monte Plata",92005
-"Rió Boyá Dm","Monte Plata",92006
+"Río Boyá Dm","Monte Plata",92006
 "San Francisco","Monte Plata",92007
 "Yabacao","Monte Plata",92008
 "San José","Monte Plata",92009
@@ -1993,12 +1993,12 @@
 "Villa Olímpica","San Pedro de Macorís",21005
 "Villa Progreso","San Pedro de Macorís",21006
 "Zona Franca Industrial","San Pedro de Macorís",21003
-"Altos Del Rió Dulce","La Romana",22005
+"Altos Del Río Dulce","La Romana",22005
 "Balneario El Calentón","La Romana",22004
 "Barrio Bancola","La Romana",22006
 "Barrio Invi","La Romana",22001
 "Barrio La Caleta","La Romana",22003
-"Barrio Rió Salado","La Romana",22006
+"Barrio Río Salado","La Romana",22006
 "Barrio San Carlos","La Romana",22007
 "Barrio Santa Fe","La Romana",22006
 "Barrio York","La Romana",22007
