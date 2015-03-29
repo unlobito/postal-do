@@ -593,22 +593,22 @@
 "Cruz Del Isleo","La Altagracia",23207
 "Bávaro","La Altagracia",23301
 "Punta Cana","La Altagracia",23302
-"Arroyo Grande","El Seybo",24001
-"Campiña","El Seybo",24002
-"Candelaria","El Seybo",24003
-"Las Cuchillas","El Seybo",24004
-"El Cuey","El Seybo",24005
-"Magarin","El Seybo",24006
-"Mata de Palma","El Seybo",24007
-"San Francisco Dm","El Seybo",24008
-"Santa Lucia Dm","El Seybo",24009
-"Vicentillo","El Seybo",24010
-"Anama","El Seybo",24011
-"El Jovero","El Seybo",24101
-"El Morro","El Seybo",24102
-"Las Lilas","El Seybo",24103
-"Isabelita","El Seybo",24104
-"Pedro Sánchez Dm","El Seybo",24105
+"Arroyo Grande","El Seibo",24001
+"Campiña","El Seibo",24002
+"Candelaria","El Seibo",24003
+"Las Cuchillas","El Seibo",24004
+"El Cuey","El Seibo",24005
+"Magarin","El Seibo",24006
+"Mata de Palma","El Seibo",24007
+"San Francisco Dm","El Seibo",24008
+"Santa Lucia Dm","El Seibo",24009
+"Vicentillo","El Seibo",24010
+"Anama","El Seibo",24011
+"El Jovero","El Seibo",24101
+"El Morro","El Seibo",24102
+"Las Lilas","El Seibo",24103
+"Isabelita","El Seibo",24104
+"Pedro Sánchez Dm","El Seibo",24105
 "Don López","Hato Mayor",25001
 "Guayabo Dulce Dm","Hato Mayor",25002
 "Manchado","Hato Mayor",25003
@@ -935,7 +935,7 @@
 "Franco Bid","Santiago",51121
 "Janey","Santiago",51122
 "Juncalito Abajo","Santiago",51123
-"Rincón Largo","Norte",51124
+"Rincón Largo","Santiago",51124
 "Rincón Llano","Santiago",51125
 "Canca Reina","Espaillat",56001
 "El Aguacate","Espaillat",56002
@@ -1106,99 +1106,99 @@
 "Gurabo","Santiago Rodríguez",64202
 "La Cacique","Santiago Rodríguez",64203
 "El Rodeo","Santiago Rodríguez",64204
-"Barreras Dm","Azua de Compostela",71001
-"Clavellinas Dm","Azua de Compostela",71002
-"La Altagracia","Azua de Compostela",71003
-"Las Lomas Dm","Azua de Compostela",71004
-"Los Jobillos Dm","Azua de Compostela",71005
-"Puerto Viejo","Azua de Compostela",71006
-"Emma Balaguer Vda.B.","Azua de Compostela",71007
-"Las Barias Dm","Azua de Compostela",71008
-"La Estancia Dm","Azua de Compostela",71009
-"Los Ganaderos Dm","Azua de Compostela",71010
-"Tabara Abajo Dm","Azua de Compostela",71011
-"Barro Arriba Dm","Azua de Compostela",71101
-"El Naranjito","Azua de Compostela",71102
-"Cañada Cimarrona","Azua de Compostela",71201
-"Hatillo de Azua Dm","Azua de Compostela",71202
-"Palmar de Ocóa Dm","Azua de Compostela",71203
-"Hato Nuevo","Azua de Compostela",71301
-"Magueyal","Azua de Compostela",71302
-"Orégano Grande","Azua de Compostela",71303
-"Viajam","Azua de Compostela",71304
-"Arroyo Cano Dm","Azua de Compostela",71305
-"Las Lagunas Dm","Azua de Compostela",71306
-"Las Caitas","Azua de Compostela",71401
-"La Siembra Dm","Azua de Compostela",71402
-"Monte Bonito","Azua de Compostela",71403
-"Villarpando Dm","Azua de Compostela",71404
-"El Carrizal","Azua de Compostela",71501
-"El Majagual","Azua de Compostela",71502
-"Puerto Viejo Dm","Azua de Compostela",71503
-"Proyecto 2-C","Azua de Compostela",71601
-"Proyecto 4 Dm","Azua de Compostela",71602
-"Proyecto D-1","Azua de Compostela",71603
-"Tabara Abajo","Azua de Compostela",71604
-"Amiama Gómez Dm","Azua de Compostela",71701
-"Las Guanabanas","Azua de Compostela",71702
-"Los Toros Dm","Azua de Compostela",71703
-"Sajanoa","Azua de Compostela",71704
-"El Memiso","Azua de Compostela",71801
-"Rancho Del Pino","Azua de Compostela",71802
-"La China","Azua de Compostela",71803
-"Arroyo Colorado","Azua de Compostela",71804
-"El Limón","Azua de Compostela",71805
-"El Cruce de Estebania","Azua de Compostela",71806
-"El 8","Azua de Compostela",71807
-"Rió Grande","Azua de Compostela",71808
-"Los Quemados","Azua de Compostela",71809
-"Sabana de Miguel Martín","Azua de Compostela",71810
-"Pueblo Viejo","Azua de Compostela",71101
-"El Rosario Dm","Azua de Compostela",71102
-"Chalona","San Juan de la Maguana",72001
-"Guanito Dm","San Juan de la Maguana",72002
-"Hato Del Padre","San Juan de la Maguana",72003
-"Hato Nuevo","San Juan de la Maguana",72004
-"La Jagua","San Juan de la Maguana",72005
-"Las Zanjas","San Juan de la Maguana",72006
-"Cañafistol","San Juan de la Maguana",72007
-"Mogollón","San Juan de la Maguana",72008
-"Guazumal","San Juan de la Maguana",72009
-"Pueblo Nuevo","San Juan de la Maguana",72010
-"Rió Arriba Del Norte","San Juan de la Maguana",72011
-"Sabana Alta Dm","San Juan de la Maguana",72012
-"El Rosario Dm","San Juan de la Maguana",72013
-"Arroyo Cano Dm","San Juan de la Maguana",72101
-"Yaque Dm","San Juan de la Maguana",72102
-"El Pinal","San Juan de la Maguana",72201
-"La Cienega","San Juan de la Maguana",72202
-"Derrumbadero Dm","San Juan de la Maguana",72203
-"Batista Dm","San Juan de la Maguana",72204
-"Jinova Dm","San Juan de la Maguana",72301
-"Sosa","San Juan de la Maguana",72302
-"Los Montones","San Juan de la Maguana",72303
-"Hato Del Padre Dm","San Juan de la Maguana",72304
-"Las Managuas Dm","San Juan de la Maguana",72305
-"Sabaneta Dm","San Juan de la Maguana",72306
-"La Jagua Dm","San Juan de la Maguana",72307
-"Carrera de Yegua Dm","New York",72402
-"La Estancia","San Juan de la Maguana",72403
-"Yabonico","San Juan de la Maguana",72404
-"Matayaya Dm","San Juan de la Maguana",72405
-"Babor","San Juan de la Maguana",72406
-"Las Charcas de María Nova Dm","San Juan de la Maguana",72407
-"Mabrigida","San Juan de la Maguana",72408
-"Pedro Corto Dm","San Juan de la Maguana",72409
-"Punta Cana","San Juan de la Maguana",72410
-"Pozo Hondo","San Juan de la Maguana",72411
-"Los Ladrillos","San Juan de la Maguana",72412
-"Los Limones","San Juan de la Maguana",72413
-"Sabanecierra","San Juan de la Maguana",72414
-"Los Jovillos","San Juan de la Maguana",72415
-"Catanamatia","San Juan de la Maguana",72416
-"Pan de Azucar","San Juan de la Maguana",72417
-"Jorgillo Dm","San Juan de la Maguana",72501
-"Rió Arriba Del Sur","San Juan de la Maguana",72502
+"Barreras Dm","Azua",71001
+"Clavellinas Dm","Azua",71002
+"La Altagracia","Azua",71003
+"Las Lomas Dm","Azua",71004
+"Los Jobillos Dm","Azua",71005
+"Puerto Viejo","Azua",71006
+"Emma Balaguer Vda.B.","Azua",71007
+"Las Barias Dm","Azua",71008
+"La Estancia Dm","Azua",71009
+"Los Ganaderos Dm","Azua",71010
+"Tabara Abajo Dm","Azua",71011
+"Barro Arriba Dm","Azua",71101
+"El Naranjito","Azua",71102
+"Cañada Cimarrona","Azua",71201
+"Hatillo de Azua Dm","Azua",71202
+"Palmar de Ocóa Dm","Azua",71203
+"Hato Nuevo","Azua",71301
+"Magueyal","Azua",71302
+"Orégano Grande","Azua",71303
+"Viajam","Azua",71304
+"Arroyo Cano Dm","Azua",71305
+"Las Lagunas Dm","Azua",71306
+"Las Caitas","Azua",71401
+"La Siembra Dm","Azua",71402
+"Monte Bonito","Azua",71403
+"Villarpando Dm","Azua",71404
+"El Carrizal","Azua",71501
+"El Majagual","Azua",71502
+"Puerto Viejo Dm","Azua",71503
+"Proyecto 2-C","Azua",71601
+"Proyecto 4 Dm","Azua",71602
+"Proyecto D-1","Azua",71603
+"Tabara Abajo","Azua",71604
+"Amiama Gómez Dm","Azua",71701
+"Las Guanabanas","Azua",71702
+"Los Toros Dm","Azua",71703
+"Sajanoa","Azua",71704
+"El Memiso","Azua",71801
+"Rancho Del Pino","Azua",71802
+"La China","Azua",71803
+"Arroyo Colorado","Azua",71804
+"El Limón","Azua",71805
+"El Cruce de Estebania","Azua",71806
+"El 8","Azua",71807
+"Rió Grande","Azua",71808
+"Los Quemados","Azua",71809
+"Sabana de Miguel Martín","Azua",71810
+"Pueblo Viejo","Azua",71101
+"El Rosario Dm","Azua",71102
+"Chalona","San Juan",72001
+"Guanito Dm","San Juan",72002
+"Hato Del Padre","San Juan",72003
+"Hato Nuevo","San Juan",72004
+"La Jagua","San Juan",72005
+"Las Zanjas","San Juan",72006
+"Cañafistol","San Juan",72007
+"Mogollón","San Juan",72008
+"Guazumal","San Juan",72009
+"Pueblo Nuevo","San Juan",72010
+"Rió Arriba Del Norte","San Juan",72011
+"Sabana Alta Dm","San Juan",72012
+"El Rosario Dm","San Juan",72013
+"Arroyo Cano Dm","San Juan",72101
+"Yaque Dm","San Juan",72102
+"El Pinal","San Juan",72201
+"La Cienega","San Juan",72202
+"Derrumbadero Dm","San Juan",72203
+"Batista Dm","San Juan",72204
+"Jinova Dm","San Juan",72301
+"Sosa","San Juan",72302
+"Los Montones","San Juan",72303
+"Hato Del Padre Dm","San Juan",72304
+"Las Managuas Dm","San Juan",72305
+"Sabaneta Dm","San Juan",72306
+"La Jagua Dm","San Juan",72307
+"Carrera de Yegua Dm","San Juan",72402
+"La Estancia","San Juan",72403
+"Yabonico","San Juan",72404
+"Matayaya Dm","San Juan",72405
+"Babor","San Juan",72406
+"Las Charcas de María Nova Dm","San Juan",72407
+"Mabrigida","San Juan",72408
+"Pedro Corto Dm","San Juan",72409
+"Punta Cana","San Juan",72410
+"Pozo Hondo","San Juan",72411
+"Los Ladrillos","San Juan",72412
+"Los Limones","San Juan",72413
+"Sabanecierra","San Juan",72414
+"Los Jovillos","San Juan",72415
+"Catanamatia","San Juan",72416
+"Pan de Azucar","San Juan",72417
+"Jorgillo Dm","San Juan",72501
+"Rió Arriba Del Sur","San Juan",72502
 "Guayabo Dm","Elías Piña",73001
 "Los Rinconcitos","Elías Piña",73002
 "Pedro Blanco","Elías Piña",73003
@@ -1734,62 +1734,62 @@
 "Urbanización Reyes","Puerto Plata",57021
 "Villa Progreso","Puerto Plata",57171
 "Zona Franca Industrial","Puerto Plata",57131
-"Barrio Av. Sosa","Provincia Espaillat",56071
-"Barrio Batuto","Provincia Espaillat",56031
-"Barrio Calaf","Provincia Espaillat",56061
-"Barrio Del Resex Dabo","Provincia Espaillat",56051
-"Barrio El Bolsillo","Provincia Espaillat",56071
-"Barrio El Toro","Provincia Espaillat",56021
-"Barrio Eurípides","Provincia Espaillat",56031
-"Barrio Gauchupita","Provincia Espaillat",56031
-"Barrio Guaci","Provincia Espaillat",56061
-"Barrio Horacio","Provincia Espaillat",56021
-"Barrio Joan Lopito","Provincia Espaillat",56071
-"Barrio La Esperanza","Provincia Espaillat",53071
-"Barrio La Estancia","Provincia Espaillat",56061
-"Barrio Los Maestros","Provincia Espaillat",56031
-"Barrio Los Rieles","Provincia Espaillat",56061
-"Barrio Muerto Borracho","Provincia Espaillat",56071
-"Barrio Pueblo Abajo","Provincia Espaillat",56021
-"Barrio Pueblo Arriba","Provincia Espaillat",56051
-"Barrio Puerto Rico","Provincia Espaillat",56021
-"Barrio Puerto Rico","Provincia Espaillat",56071
-"Barrio Pulin","Provincia Espaillat",56051
-"Barrio Quijada Quieta","Provincia Espaillat",56021
-"Barrio Sal Si Puedes","Provincia Espaillat",56071
-"Barrio San José","Provincia Espaillat",56021
-"Barrio San Luis","Provincia Espaillat",56061
-"Centro de la Ciudad","Provincia Espaillat",56011
-"El Caimito","Provincia Espaillat",56051
-"El Semillero","Provincia Espaillat",56051
-"Entrada de la Soledad","Provincia Espaillat",56051
-"Hincha","Provincia Espaillat",56051
-"Ley Lama","Provincia Espaillat",56031
-"Llenas","Provincia Espaillat",56051
-"Los Cáceres","Provincia Espaillat",56031
-"Los Octavios","Provincia Espaillat",56101
-"Los Profesionales","Provincia Espaillat",56031
-"Mejoramiento Social","Provincia Espaillat",56051
-"Mirador","Provincia Espaillat",56051
-"Moronta","Provincia Espaillat",56031
-"Residencial María Del Carmen","Provincia Espaillat",56051
-"Reparto Amelia","Provincia Espaillat",56051
-"Res. Montreal","Provincia Espaillat",56031
-"Res. Ambar","Provincia Espaillat",56051
-"Res. Cabrera","Provincia Espaillat",56071
-"Res. Irka","Provincia Espaillat",56021
-"Urb. Del Este","Provincia Espaillat",56051
-"Urb. Don Bosco","Provincia Espaillat",56041
-"Urb. Grabiela","Provincia Espaillat",56051
-"Urbanización Lolita","Provincia Espaillat",56031
-"Villa Carolina","Provincia Espaillat",56041
-"Villa Del Rosario","Provincia Espaillat",56061
-"Villa Delia","Provincia Espaillat",56071
-"Villa Elsa","Provincia Espaillat",56051
-"Villa Emely","Provincia Espaillat",56051
-"Villa Estancia Nueva","Provincia Espaillat",56071
-"Villa Estela","Provincia Espaillat",56041
-"Villa Olga","Provincia Espaillat",56061
+"Barrio Av. Sosa","Espaillat",56071
+"Barrio Batuto","Espaillat",56031
+"Barrio Calaf","Espaillat",56061
+"Barrio Del Resex Dabo","Espaillat",56051
+"Barrio El Bolsillo","Espaillat",56071
+"Barrio El Toro","Espaillat",56021
+"Barrio Eurípides","Espaillat",56031
+"Barrio Gauchupita","Espaillat",56031
+"Barrio Guaci","Espaillat",56061
+"Barrio Horacio","Espaillat",56021
+"Barrio Joan Lopito","Espaillat",56071
+"Barrio La Esperanza","Espaillat",53071
+"Barrio La Estancia","Espaillat",56061
+"Barrio Los Maestros","Espaillat",56031
+"Barrio Los Rieles","Espaillat",56061
+"Barrio Muerto Borracho","Espaillat",56071
+"Barrio Pueblo Abajo","Espaillat",56021
+"Barrio Pueblo Arriba","Espaillat",56051
+"Barrio Puerto Rico","Espaillat",56021
+"Barrio Puerto Rico","Espaillat",56071
+"Barrio Pulin","Espaillat",56051
+"Barrio Quijada Quieta","Espaillat",56021
+"Barrio Sal Si Puedes","Espaillat",56071
+"Barrio San José","Espaillat",56021
+"Barrio San Luis","Espaillat",56061
+"Centro de la Ciudad","Espaillat",56011
+"El Caimito","Espaillat",56051
+"El Semillero","Espaillat",56051
+"Entrada de la Soledad","Espaillat",56051
+"Hincha","Espaillat",56051
+"Ley Lama","Espaillat",56031
+"Llenas","Espaillat",56051
+"Los Cáceres","Espaillat",56031
+"Los Octavios","Espaillat",56101
+"Los Profesionales","Espaillat",56031
+"Mejoramiento Social","Espaillat",56051
+"Mirador","Espaillat",56051
+"Moronta","Espaillat",56031
+"Residencial María Del Carmen","Espaillat",56051
+"Reparto Amelia","Espaillat",56051
+"Res. Montreal","Espaillat",56031
+"Res. Ambar","Espaillat",56051
+"Res. Cabrera","Espaillat",56071
+"Res. Irka","Espaillat",56021
+"Urb. Del Este","Espaillat",56051
+"Urb. Don Bosco","Espaillat",56041
+"Urb. Grabiela","Espaillat",56051
+"Urbanización Lolita","Espaillat",56031
+"Villa Carolina","Espaillat",56041
+"Villa Del Rosario","Espaillat",56061
+"Villa Delia","Espaillat",56071
+"Villa Elsa","Espaillat",56051
+"Villa Emely","Espaillat",56051
+"Villa Estancia Nueva","Espaillat",56071
+"Villa Estela","Espaillat",56041
+"Villa Olga","Espaillat",56061
 "Barrio Acapulco","Sánchez Ramírez",43001
 "Centro de la Ciudad","Sánchez Ramírez",42002
 "Barrio Esperanza","Sánchez Ramírez",42002
@@ -2055,18 +2055,18 @@
 "Urb. San Pedro","La Altagracia",23001
 "Vista Hermosa","La Altagracia",23001
 "Zona Franca Industrial","La Altagracia",23001
-"Barrio Cañada Francisca","El Seybo",24001
-"Barrio Capotillo","El Seybo",24002
-"Barrio El Retiro","El Seybo",24002
-"Barrio Jina Andiana","El Seybo",24002
-"Barrio La Manicera","El Seybo",24002
-"Barrio Las 500","El Seybo",24001
-"Barrio Los Cajuiles","El Seybo",24001
-"Barrio Los Hoyos","El Seybo",24001
-"Buenos Aires","El Seybo",24002
-"Centro de la Cuidad","El Seybo",24001
-"Ens. Palo Hincado","El Seybo",24002
-"Mirador Sur","El Seybo",24002
+"Barrio Cañada Francisca","El Seibo",24001
+"Barrio Capotillo","El Seibo",24002
+"Barrio El Retiro","El Seibo",24002
+"Barrio Jina Andiana","El Seibo",24002
+"Barrio La Manicera","El Seibo",24002
+"Barrio Las 500","El Seibo",24001
+"Barrio Los Cajuiles","El Seibo",24001
+"Barrio Los Hoyos","El Seibo",24001
+"Buenos Aires","El Seibo",24002
+"Centro de la Cuidad","El Seibo",24001
+"Ens. Palo Hincado","El Seibo",24002
+"Mirador Sur","El Seibo",24002
 "Barrio Gualey","Hato Mayor",25002
 "Barrio Las Guázumas","Hato Mayor",25001
 "Barrio Las Malvinas","Hato Mayor",25003
@@ -2148,23 +2148,23 @@
 "Pueblo Abajo","Azua",71001
 "Savica","Azua",71001
 "Villa Esperanza","Azua",71003
-"Barrio Cepillo","San Juan de la Maguana",72004
-"Barrio Guachupita","San Juan de la Maguana",72001
-"Barrio Gualey","San Juan de la Maguana",72004
-"Barrio Los Mojados","San Juan de la Maguana",72001
-"Barrio Quija Quieta","San Juan de la Maguana",72001
-"Centro de la Ciudad","San Juan de la Maguana",72003
-"El Badén","San Juan de la Maguana",72004
-"Ens. Anacaona","San Juan de la Maguana",72004
-"Ens. La Fe","San Juan de la Maguana",72003
-"Ens. Mesopotamia","San Juan de la Maguana",72004
-"Francisco Del Rosario Sánchez","San Juan de la Maguana",72001
-"Los Gringos","San Juan de la Maguana",72002
-"Los Montes de Oca","San Juan de la Maguana",72004
-"Urb. Manoguayabo","San Juan de la Maguana",72001
-"Villa Felicia","San Juan de la Maguana",72002
-"Villa Flores","San Juan de la Maguana",72001
-"Villa Ofelia","San Juan de la Maguana",72002
+"Barrio Cepillo","San Juan",72004
+"Barrio Guachupita","San Juan",72001
+"Barrio Gualey","San Juan",72004
+"Barrio Los Mojados","San Juan",72001
+"Barrio Quija Quieta","San Juan",72001
+"Centro de la Ciudad","San Juan",72003
+"El Badén","San Juan",72004
+"Ens. Anacaona","San Juan",72004
+"Ens. La Fe","San Juan",72003
+"Ens. Mesopotamia","San Juan",72004
+"Francisco Del Rosario Sánchez","San Juan",72001
+"Los Gringos","San Juan",72002
+"Los Montes de Oca","San Juan",72004
+"Urb. Manoguayabo","San Juan",72001
+"Villa Felicia","San Juan",72002
+"Villa Flores","San Juan",72001
+"Villa Ofelia","San Juan",72002
 "Barrio Rafael","San José de Ocoa",93001
 "Clavellina","San José de Ocoa",93002
 "La Vija","San José de Ocoa",93001
@@ -2293,24 +2293,24 @@
 "Los Tomines","Santiago Rodríguez",64002
 "Urb. Merien","Santiago Rodríguez",64002
 "Villa Polín","Santiago Rodríguez",64002
-"Altos de la Palomas","Montecristi",62001
-"Barrio Francisco Javier","Montecristi",62002
-"Barrio La Aviación","Montecristi",62002
-"Barrio Las Flores","Montecristi",62002
-"Barrio Salomón Jorge","Montecristi",62001
-"Barrio San Fernando","Montecristi",62002
-"Barrio San Pedro","Montecristi",62002
-"Bella Vista","Montecristi",62001
-"Centro de la Ciudad","Montecristi",62002
-"Cerros de San Pedro","Montecristi",62002
-"Cristo Rey","Montecristi",62002
-"Guatapanal","Montecristi",62002
-"Hermanas Mirabal","Montecristi",62001
-"Las Colinas","Montecristi",62002
-"Los Ángeles","Montecristi",62001
-"Los Jazmines","Montecristi",62001
-"Mejoramiento Social","Montecristi",62001
-"Salinas","Montecristi",62001
+"Altos de la Palomas","Monte Cristi",62001
+"Barrio Francisco Javier","Monte Cristi",62002
+"Barrio La Aviación","Monte Cristi",62002
+"Barrio Las Flores","Monte Cristi",62002
+"Barrio Salomón Jorge","Monte Cristi",62001
+"Barrio San Fernando","Monte Cristi",62002
+"Barrio San Pedro","Monte Cristi",62002
+"Bella Vista","Monte Cristi",62001
+"Centro de la Ciudad","Monte Cristi",62002
+"Cerros de San Pedro","Monte Cristi",62002
+"Cristo Rey","Monte Cristi",62002
+"Guatapanal","Monte Cristi",62002
+"Hermanas Mirabal","Monte Cristi",62001
+"Las Colinas","Monte Cristi",62002
+"Los Ángeles","Monte Cristi",62001
+"Los Jazmines","Monte Cristi",62001
+"Mejoramiento Social","Monte Cristi",62001
+"Salinas","Monte Cristi",62001
 "Barrio La Esperanza","Dajabón",63003
 "Barrio La Fe","Dajabón",63004
 "Barrio Militar","Dajabón",63003
